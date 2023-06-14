@@ -1,5 +1,7 @@
 # CV
 This contains my personal information
 
-<a href="https://austinmonde.github.io/CV/" target="_blank">Austin Monde Curriculum Vitae</a>
+click the link below to access it
+
+<a href="https://austinmonde.github.io/CV/" target="_blank">Austin Monde CV</a>
 
